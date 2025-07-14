@@ -1,4 +1,4 @@
-<h1>Imperativo Afirmativo — Notas</h1>
+<h1>Imperativo Afirmativo — Spanish Notes</h1>
 
 <p>El imperativo afirmativo se usa para dar órdenes o instrucciones directas. Las formas se usan para <strong>tú</strong>, <strong>usted</strong>, <strong>nosotros/as</strong>, y <strong>ustedes</strong>. No hay forma para "yo".</p>
 
@@ -63,7 +63,7 @@
 
 <hr>
 
-<h1>El Imperativo Negativo (Negative Command) — Spanish Notes</h1>
+<h1>El Imperativo Negativo</h1>
 
 <p>El <strong>imperativo negativo</strong> se usa para <em>decir a alguien que no haga algo</em>. Es diferente del imperativo afirmativo y tiene formas específicas.</p>
 
